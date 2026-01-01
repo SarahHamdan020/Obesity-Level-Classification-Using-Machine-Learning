@@ -14,4 +14,4 @@ Developed a multi-class classification system to estimate obesity levels from di
 - Achieved ~97% accuracy with strong performance across multiple obesity categories
 
 ## Notes
-📄 The final project report will be added once the latest version is received. A powerpoint presentation on the porject is included.
+📄 The final project report includes analysis of results. A powerpoint presentation on the porject is also included.
